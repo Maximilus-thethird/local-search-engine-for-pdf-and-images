@@ -7,6 +7,7 @@ This project uses the following third-party libraries:
 
 - **PDFium** — Licensed under a BSD-style license. See [`third_party_licenses/PDFium_LICENSE.txt`](third_party_licenses/PDFium_LICENSE.txt)
 - **TorchVision / MobileNetV3** — Licensed under a BSD-style license. See [`third_party_licenses/TorchVision_LICENSE.txt`](third_party_licenses/TorchVision_LICENSE.txt)
+- PyMuPdf (fitz) - Licensed under GNU AGPL v3.0. See [`third_party_licenses/PyMuPDF_AGPL_LICENSE.txt`](third_party_licenses/PyMuPDF_AGPL_LICENSE.txt)
 
 These components are used in accordance with their respective licenses. This project does not redistribute modified versions of these libraries.
 
