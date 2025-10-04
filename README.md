@@ -9,3 +9,8 @@ This project uses the following third-party libraries:
 - **TorchVision / MobileNetV3** — Licensed under a BSD-style license. See [`third_party_licenses/TorchVision_LICENSE.txt`](third_party_licenses/TorchVision_LICENSE.txt)
 
 These components are used in accordance with their respective licenses. This project does not redistribute modified versions of these libraries.
+
+# License
+
+This project is shared for educational and demonstration purposes only. All rights reserved.  
+Commercial use, redistribution, or modification is prohibited without written permission from the author.
