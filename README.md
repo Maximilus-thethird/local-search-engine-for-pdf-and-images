@@ -15,3 +15,8 @@ These components are used in accordance with their respective licenses. This pro
 
 This project is licensed under a custom license.  
 See [`LICENSE`](LICENSE) for details.
+
+However, this project includes third-party components licensed under GNU AGPL v3.0 (e.g., PyMuPDF).  
+As a result, the combined work must comply with AGPL v3.0 if redistributed or deployed publicly.
+
+If you intend to reuse or modify this project, please review the AGPL v3.0 terms carefully.  
