@@ -12,5 +12,5 @@ These components are used in accordance with their respective licenses. This pro
 
 # License
 
-This project is shared for educational and demonstration purposes only. All rights reserved.  
-Commercial use, redistribution, or modification is prohibited without written permission from the author.
+This project is licensed under a custom license.  
+See [`LICENSE`](LICENSE) for details.
