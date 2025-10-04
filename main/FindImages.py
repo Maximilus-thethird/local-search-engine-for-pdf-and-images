@@ -38,7 +38,7 @@ ALL_SUPPORTED_FORMAT = SUPPORTED_IMAGE_FORMATS + (".pdf",)
 INDEX_DIR = os.path.join(os.getcwd(), "Index")
 MAP_PATH = os.path.join(INDEX_DIR, "map_data.db")
 WATCHDOG_NAME = "WatchdogService"
-WATCHDOG_PATH = os.path.join(os.getcwd(), "WatchdogService.exe")
+WATCHDOG_PATH = os.path.join(os.getcwd(), "WatchdogService.py")
 
 current_tab_index = 0
 
