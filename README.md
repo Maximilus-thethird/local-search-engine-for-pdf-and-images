@@ -6,6 +6,8 @@ This project was developed as a personal challenge to explore file indexing, met
 
 This application is a fully local, cross-type search engine for PDFs and image files. Users can initiate searches using either file paths or the built-in screenshot capture system. The engine returns exact matches or contextually similar images — for example, submitting a photo of a dog will retrieve all dog-related images within the indexed database.
 
+Currently, this version only supports Windows.
+
 ##  Key Features
 
 - **Cross-Type Search**  
