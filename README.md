@@ -35,6 +35,7 @@ Currently, this version only supports Windows.
 ##  Tech Stack
 
 - Python 3.11  
+- Faiss
 - PyMuPDF (fitz)  
 - TorchVision / MobileNetV3  
 - PDFium  
