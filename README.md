@@ -8,6 +8,19 @@ This application is a fully local, cross-type search engine for PDFs and image f
 
 Currently, this version only supports Windows.
 
+##  Important Note
+- Since this is a hobby project that I made all in the 2 months of summer following my first year as a CS student, the structure was not very well thought out as proven by the explosion in code complexity as ideas grow and grow, and in the lack of experience with version control (it was built without code sharing or Git in mind), so implementation on other machines may be difficult. I sincerely appologize for this lack of foresight and experience, and have now bettered myself by improving what I feel was lacking.
+
+- Therefore, for those of you who want to see how the app operates, you can watch the preview below demonstating the process of Setup, Query and Live File Update.
+
+---
+##  Preview
+- Setup:
+- https://drive.google.com/file/d/1Xsd6ae1dcaleYjz6fFlXbqKu5PfFANKt/view?usp=drive_link
+- Query using file path and built-in screenshotting, editing metadata:
+- https://drive.google.com/file/d/1LGfDoCPO9p8qxCOby3UqC24ymGp4fAoK/view?usp=drive_link
+- Live file updates:
+- https://drive.google.com/file/d/1hK2K9OR0Ssno5vs7p64r76_JLVZjS3sa/view?usp=drive_link
 ##  Key Features
 
 - **Cross-Type Search**  
@@ -29,8 +42,6 @@ Currently, this version only supports Windows.
 
 - **Startup Integration (WIP)**  
   A boot-with-Windows feature for the monitoring service is available but under development to support persistent background indexing.
-
----
 
 ##  Tech Stack
 
