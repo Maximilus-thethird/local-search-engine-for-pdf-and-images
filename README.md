@@ -20,7 +20,7 @@ Currently, this version only supports Windows.
 - Query using file path and built-in screenshotting, editing metadata:
 - https://drive.google.com/file/d/1LGfDoCPO9p8qxCOby3UqC24ymGp4fAoK/view?usp=drive_link
 - Live file updates:
-- https://drive.google.com/file/d/1hK2K9OR0Ssno5vs7p64r76_JLVZjS3sa/view?usp=drive_link
+- https://drive.google.com/file/d/1NtlWfFABAmYxESC8x1k38jyCMig_DhGL/view?usp=drive_link
 ##  Key Features
 
 - **Cross-Type Search**  
